@@ -76,3 +76,10 @@ La production de résumés automatiques a utilisé l’interface de Hugging face
 Le corpus a été produit dans le cadre d’une recherche-action menée sous le titre les Récits de la faim à Montréal par le Laboratoire d’analyse des discours et des récits collectifs du Centre de recherches interdisciplinaires en études montréalaises de l’Université McGill, dans le cadre du programme Montréal en commun.
 
 Julien Vallières a constitué le corpus. Pascal Brissette et Lisa Teichmann ont procédé au classement supervisé des sous-corpus de langue française et anglaise. Alexia Wildhaber-Riley et Yu Chen Shi ont procédé au classement manuel préalable des textes. Elisabeth Doyon a procédé à l’enrichissement sémantique des tables diffusées.
+
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
